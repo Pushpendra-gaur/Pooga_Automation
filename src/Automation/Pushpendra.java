@@ -16,7 +16,7 @@ public class Pushpendra {
 		
 	    driver = new ChromeDriver();
 
-		driver.get("https://www.sarkariresult.com/");
+		driver.get("https://www.testingbaba.com/old/");
 
 		driver.manage().window().maximize();
 
