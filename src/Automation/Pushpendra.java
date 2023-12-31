@@ -16,10 +16,20 @@ public class Pushpendra {
 		
 	    driver = new ChromeDriver();
 
-		driver.get("https://www.sarkariresult.com/");
+		driver.get("https://www.testingbaba.com/old/");
 
 		driver.manage().window().maximize();
+		
+		System.out.println("pushpendra");
+		
+		System.out.println("Ankit");
+		
+		System.out.println("Rashmi");
+		
 
 	}
 
+ 
+	
+	
 }
