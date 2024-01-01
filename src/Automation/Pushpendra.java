@@ -26,6 +26,11 @@ public class Pushpendra {
 		
 		System.out.println("Rashmi");
 		
+		System.out.println("ruby");
+		
+		System.out.println("pooja");
+		
+		
 
 	}
 
